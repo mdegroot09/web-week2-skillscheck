@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  font-family: 'Arimo', sans-serif;
+  width: 100%;
+}
+
+.navbar {
+  height: 30px;
+  background: gray;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.company {
+  align-self: center;
+  margin-left: 30px;
+  color: white;
+}
+
+.drop-downs {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 30px;
+  color: white;
+  font-size: 11px;
+}
+
+.title-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  height: 200px;
+}
+
+.title {
+  color: yellow;
+  margin: 0 30px;
+}
+
+.three-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 25px 30px;
+}
+
+.turquoise-box {
+  height: 125px;
+  width: 125px;
+  background: turquoise;
+  border-radius: 10px;
+}
+
+.two-group {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 30px;
+}
+
+.orange1 {
+  width: 100vw;
+  height: 125px;
+  background: orange;
+  margin-right: 20px;
+}
+
+.orange2 {
+  margin-right: 0;
+}
+
+.text-pic {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 30px;
+}
+
+.text {
+  width: 100%;
+  height: 125px;
+  font-size: 12px;
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+  margin: 0 30px 0 0;
+}
+
+p {
+  height: 100%;
+}
+
+.lorem {
+  padding: 0;
+  margin: 0 30px;
+}
+
+.pic {
+  width: 100%;
+  margin-right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  height: 125px;
+}
+
+.footer {
+  height: 70px;
+  background: rgb(43, 0, 92);
+}
